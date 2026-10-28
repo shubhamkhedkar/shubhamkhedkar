@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Shubham%20Khedkar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20(AWS)%20%7C%20CI%2FCD%20%7C%20Kubernetes%20%7C%20IaC%20%7C%20DevSecOps&descSize=15&descAlignY=60" alt="Shubham Khedkar - DevOps Engineer | Cloud (AWS) | CI/CD | Kubernetes | IaC | DevSecOps" />
 
 <a href="https://github.com/shubhamkhedkar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2F9BFF&center=true&vCenter=true&width=720&lines=DevOps+Engineer+%7C+Cloud+(AWS)+%7C+CI%2FCD;Kubernetes+%7C+IaC+%7C+DevSecOps;Automating+build+%E2%86%92+test+%E2%86%92+scan+%E2%86%92+ship;Learning+Multi-Cloud+DevOps+with+AI+(Batch-45);Based+in+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2F9BFF&center=true&vCenter=true&width=720&lines=DevOps+Engineer+%7C+Cloud+(AWS)+%7C+CI%2FCD;Kubernetes+%7C+IaC+%7C+DevSecOps;Automating+build+%E2%86%92+test+%E2%86%92+scan+%E2%86%92+ship;Multi-Cloud+DevOps+with+AI+(Batch-45);Based+in+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,13 +18,13 @@
 
 ## 👋 About Me
 
-I'm a **DevOps Engineer in the making** with a software-development background. I focus on **cloud automation**: pipelines that build, test, scan and ship code, AWS tooling that finds waste and misconfigurations, and Kubernetes setups that heal themselves.
+I'm a **DevOps Engineer** with a software-development background. I focus on **cloud automation**: pipelines that build, test, scan and ship code, AWS tooling that finds waste and misconfigurations, and Kubernetes setups that heal themselves.
 
-I'm currently going through the **CloudDevOpsHub Multi Cloud + DevOps with AI Challenge (Batch-45)** and turn every topic into a hands-on repo, so what you see below is practised work, not just a list of tools.
+I'm training through the **CloudDevOpsHub Multi Cloud + DevOps with AI Challenge (Batch-45)** and turn every topic into a hands-on repo, so what you see below is practised work.
 
 - ⚙️ Building: CI/CD pipelines, AWS cost & security automation, Kubernetes self-healing demos
-- 🔐 Interested in: DevSecOps and AI-assisted automation
-- 🌱 Learning: Jenkins → Docker → Kubernetes → Terraform → Ansible → Azure
+- 🔐 Focus areas: DevSecOps and AI-assisted automation
+- 🧰 Works with: AWS · Azure · Jenkins · Docker · Kubernetes · Terraform · Ansible
 - 📍 Based in Pune, India
 
 ---
@@ -51,15 +51,15 @@ flowchart LR
 
 ## 🧭 DevOps Capability Areas
 
-| Area | What I've done | Status |
-|---|---|---|
-| 🔄 **CI/CD** | GitHub Actions pipelines: path filters, matrix builds, lint, tests, coverage, Docker build and push to GHCR, release workflow. Jenkins is next in the course. | ✅ Hands-on · 🔄 Jenkins learning |
-| 🐳 **Containers & Orchestration** | Dockerised apps with health checks. Kubernetes probes, replicas, PodDisruptionBudget, HPA, Kustomize and a Helm chart. | ✅ Hands-on · 🔄 Docker & K8s deep-dive in course |
-| ☁️ **Cloud (AWS)** | Completed the AWS module. Built read-only boto3 tools for cost optimisation and security auditing (EC2, EBS, S3, IAM, RDS, Lambda, CloudTrail…). | ✅ Hands-on · ⏳ Azure planned |
-| 🏗️ **Infrastructure as Code** | Wrote Terraform scanning rules for IaC checks. Writing and applying Terraform is the next course module. | 🔄 Learning (Terraform, Ansible) |
-| 📈 **Monitoring & Observability** | Health endpoints (Spring Boot Actuator), liveness/readiness probes, CloudWatch metrics for cost analysis. A full metrics and dashboard stack is on my exploration list. | 🌱 Foundations |
-| 🛡️ **DevSecOps** | SAST CLI with SARIF output, secret detection, dependency scanning (OSV), CodeQL, Trivy, OWASP Dependency-Check, Dependabot, AI-assisted triage. | ✅ Hands-on |
-| 🐍 **Scripting & Automation** | Python CLIs, Bash scripts (cluster setup, failure simulator), Git workflows. | ✅ Hands-on |
+| Area | What I work with |
+|---|---|
+| 🔄 **CI/CD** | GitHub Actions pipelines (path filters, matrix builds, lint, tests, coverage, Docker build and push to GHCR, release workflow) and **Jenkins** pipelines. |
+| 🐳 **Containers & Orchestration** | Dockerised apps with health checks. **Kubernetes** probes, replicas, PodDisruptionBudget, HPA, Kustomize and a Helm chart. |
+| ☁️ **Cloud (AWS & Azure)** | **AWS** (EC2, EBS, S3, IAM, RDS, Lambda, CloudTrail…) with read-only boto3 tools for cost optimisation and security auditing. Multi-cloud with **Azure**. |
+| 🏗️ **Infrastructure as Code** | **Terraform** (including IaC security checks) and **Ansible** for configuration management. |
+| 📈 **Monitoring & Observability** | Health endpoints (Spring Boot Actuator), liveness/readiness probes, HPA autoscaling and CloudWatch metrics. |
+| 🛡️ **DevSecOps** | SAST CLI with SARIF output, secret detection, dependency scanning (OSV), CodeQL, Trivy, OWASP Dependency-Check, Dependabot, AI-assisted triage. |
+| 🐍 **Scripting & Automation** | Python CLIs, Bash scripts (cluster setup, failure simulator), Git workflows. |
 
 ---
 
@@ -68,12 +68,12 @@ flowchart LR
 **☁️ Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **🔄 CI/CD & Source Control**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-Learning-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -85,8 +85,8 @@ flowchart LR
 
 **🏗️ Infrastructure as Code & Config Management**
 
-![Terraform](https://img.shields.io/badge/Terraform-Learning-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Learning-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 **🛡️ DevSecOps**
 
@@ -134,20 +134,11 @@ flowchart LR
 
 ---
 
-## 📚 Currently Learning
+## 🛣️ DevOps Journey
 
-Following the **[Multi Cloud + DevOps with AI Challenge (Batch-45)](https://github.com/shubhamkhedkar/MultiCloud-DevOps-AI-Challenge)** by CloudDevOpsHub. My daily notes live in my fork of the course repo.
+Hands-on training through the **[CloudDevOpsHub Multi Cloud + DevOps with AI Challenge (Batch-45)](https://github.com/shubhamkhedkar/MultiCloud-DevOps-AI-Challenge)**, with my daily notes in my fork of the course repo.
 
-| Stage | Topic | Status |
-|:---:|---|:---:|
-| 1 | ☁️ **AWS** | ✅ Completed |
-| 2 | 🔀 **Git & GitHub** | ✅ Completed |
-| 3 | 🏗️ **Jenkins** (CI/CD) | 🔄 In progress |
-| 4 | 🐳 **Docker** | ⏳ Up next |
-| 5 | ☸️ **Kubernetes** | ⏳ Up next |
-| 6 | 🌍 **Terraform** | ⏳ Planned |
-| 7 | 🔧 **Ansible** | ⏳ Planned |
-| 8 | 🔷 **Azure** (multi-cloud) | ⏳ Planned |
+**☁️ AWS → 🔀 Git & GitHub → 🏗️ Jenkins → 🐳 Docker → ☸️ Kubernetes → 🌍 Terraform → 🔧 Ansible → 🔷 Azure**
 
 ---
 
@@ -173,7 +164,7 @@ Following the **[Multi Cloud + DevOps with AI Challenge (Batch-45)](https://gith
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](http://nomadshubham.s3-website.ap-south-1.amazonaws.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamkhedkar)
 
-*Automate everything. Learn in public.* 🚀
+*Automate everything. Ship with confidence.* 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=shubhamkhedkar&label=Profile%20views&color=2c5364&style=flat-square)
 
