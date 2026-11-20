@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Shubham%20Khedkar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20(AWS)%20%7C%20CI%2FCD%20%7C%20Kubernetes%20%7C%20IaC%20%7C%20DevSecOps&descSize=15&descAlignY=60" alt="Shubham Khedkar - DevOps Engineer | Cloud (AWS) | CI/CD | Kubernetes | IaC | DevSecOps" />
 
 <a href="https://github.com/shubhamkhedkar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2F9BFF&center=true&vCenter=true&width=720&lines=DevOps+Engineer+%7C+Cloud+(AWS)+%7C+CI%2FCD;Kubernetes+%7C+IaC+%7C+DevSecOps;Automating+build+%E2%86%92+test+%E2%86%92+scan+%E2%86%92+ship;Multi-Cloud+DevOps+with+AI+(Batch-45);Based+in+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2F9BFF&center=true&vCenter=true&width=720&lines=DevOps+Engineer+%7C+Cloud+(AWS)+%7C+CI%2FCD;Kubernetes+%7C+IaC+%7C+DevSecOps;Automating+build+%E2%86%92+test+%E2%86%92+scan+%E2%86%92+ship;Multi-Cloud+DevOps+with+AI;Based+in+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/>
