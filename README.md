@@ -20,7 +20,7 @@
 
 I'm a **DevOps Engineer** with a software-development background. I focus on **cloud automation**: pipelines that build, test, scan and ship code, AWS tooling that finds waste and misconfigurations, and Kubernetes setups that heal themselves.
 
-I'm training through the **CloudDevOpsHub Multi Cloud + DevOps with AI Challenge (Batch-45)** and turn every topic into a hands-on repo, so what you see below is practised work.
+I'm training through the **CloudDevOpsHub Multi Cloud + DevOps with AI Challenge** and turn every topic into a hands-on repo, so what you see below is practised work.
 
 - ⚙️ Building: CI/CD pipelines, AWS cost & security automation, Kubernetes self-healing demos
 - 🔐 Focus areas: DevSecOps and AI-assisted automation
@@ -137,7 +137,7 @@ flowchart LR
 
 ## 🛣️ DevOps Journey
 
-Hands-on training through the **[CloudDevOpsHub Multi Cloud + DevOps with AI Challenge (Batch-45)](https://github.com/shubhamkhedkar/MultiCloud-DevOps-AI-Challenge)**, with my daily notes in my fork of the course repo.
+Hands-on training through the **[CloudDevOpsHub Multi Cloud + DevOps with AI Challenge](https://github.com/shubhamkhedkar/MultiCloud-DevOps-AI-Challenge)**, with my daily notes in my fork of the course repo.
 
 **☁️ AWS → 🔀 Git & GitHub → 🏗️ Jenkins → 🐳 Docker → ☸️ Kubernetes → 🌍 Terraform → 🔧 Ansible → 🔷 Azure**
 
