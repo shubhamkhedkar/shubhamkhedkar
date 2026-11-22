@@ -9,6 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nomadshubham-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](http://nomadshubham.s3-website.ap-south-1.amazonaws.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubham--khedkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-khedkar-c007/)
 [![GitHub](https://img.shields.io/badge/GitHub-shubhamkhedkar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamkhedkar)
 ![Location](https://img.shields.io/badge/Location-Pune%2C%20India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
 
@@ -163,6 +164,7 @@ Hands-on training through the **[CloudDevOpsHub Multi Cloud + DevOps with AI Cha
 ### 🤝 Let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](http://nomadshubham.s3-website.ap-south-1.amazonaws.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-khedkar-c007/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamkhedkar)
 
 *Automate everything. Ship with confidence.* 🚀
